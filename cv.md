@@ -14,6 +14,7 @@ I worked for 3 years as a locksmith in different factories, but I have always lo
 +Css
 
 ###Code example
+```
 <body>
   <h2>Создайте своего персонажа</h2>
   <form>
@@ -40,6 +41,7 @@ I worked for 3 years as a locksmith in different factories, but I have always lo
     </select>
   </form>
   </body>
+  ```
 
 ###Work experience. Junior Dev
 -
