@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title> Моё CV HTML CSS </title>
+</head>
 <body>
 <h3> My name: </h3>
 <strong> Nikita Akulich</strong>
@@ -17,7 +22,7 @@ telephone +7 705 362 39 27
 </ul>
 
 <h4>Code example:</h4>
-<body>
+
   <h2>Создайте своего персонажа</h2>
   <form>
     <label>
@@ -42,7 +47,7 @@ telephone +7 705 362 39 27
       <option>Кинжал</option>
     </select>
   </form>
-  </body>
+  
 
 <h4>Work experience. Junior Dev: </h4>
 -
@@ -50,6 +55,6 @@ telephone +7 705 362 39 27
 <h4>Education: </h4>
 Medium-special technician mechanic
 
-<h4>English language:</h4>
+<h4> English language:</h4>
 <strong>basic level</strong>
 </body>
