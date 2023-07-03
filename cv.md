@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
+<meta name="viewport" content="width=320, initial-scale=0.1, user-scalable=no">
+  <link rel="icon"
+    href="https://rs.school/images/rs_school_js.svg"
+    type="image/png" sizes="32x32">
+  <meta charset="UTF-8">
 <title> Моё CV HTML CSS </title>
 </head>
 <body>
@@ -57,4 +62,8 @@ Medium-special technician mechanic
 
 <h4> English language:</h4>
 <strong>basic level</strong>
+<footer><a href="https://github.com/Dovakin921"> My github </a>
+<p><a href="https://rs.school/js/">https://rs.school/js/ </a></p>
+<p>8 April 2008</p>
+</footer>
 </body>
