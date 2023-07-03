@@ -1,19 +1,22 @@
-###My name
-Nikita Akulich
+<body>
+<h3> My name: </h3>
+<strong> Nikita Akulich</strong>
 
-###Contacts for communication
+<h4>Contacts for communication:</h4>
 telephone +7 705 362 39 27
-discord Dovakin 9496
+<i>discord Dovakin 9496</i>
 
-###About me
-I worked for 3 years as a locksmith in different factories, but I have always loved computers and programming. And now I want to become a Software Engineer in Front-end. I really enjoy programming and want to keep growing as a developer.
+<h4>About me:</h4>
+<i>I worked for 3 years as a locksmith in different factories, but I have always loved computers and programming. And now I want to become a Software Engineer in Front-end. I really enjoy programming and want to keep growing as a developer.</i>
 
-###Skills
-+HTML
-+Markdown
-+Css
+<h4>Skills:</h4>
+<ul>
+<li>HTML</li>
+<li>Markdown </li>
+<li>Css </li>
+</ul>
 
-###Code example
+<h4>Code example:</h4>
 <body>
   <h2>Создайте своего персонажа</h2>
   <form>
@@ -41,11 +44,12 @@ I worked for 3 years as a locksmith in different factories, but I have always lo
   </form>
   </body>
 
-###Work experience. Junior Dev
+<h4>Work experience. Junior Dev: </h4>
 -
 
-###Education
+<h4>Education: </h4>
 Medium-special technician mechanic
 
-###English language
-Basic level
+<h4>English language:</h4>
+<strong>basic level</strong>
+</body>
