@@ -1,21 +1,33 @@
-###My name
-Nikita Akulich
-
-###Contacts for communication
-telephone +7 705 362 39 27
-discord Dovakin 9496
-
-###About me
-I worked for 3 years as a locksmith in different factories, but I have always loved computers and programming. And now I want to become a Software Engineer in Front-end. I really enjoy programming and want to keep growing as a developer.
-
-###Skills
-+HTML
-+Markdown
-+Css
-
-###Code example
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=320, initial-scale=0.1, user-scalable=no">
+  <link rel="icon"
+    href="https://rs.school/images/rs_school_js.svg"
+    type="image/png" sizes="32x32">
+  <meta charset="UTF-8">
+<title> Моё CV HTML CSS </title>
+</head>
 <body>
+<h3> My name: </h3>
+<strong> Nikita Akulich</strong>
+
+<h4>Contacts for communication:</h4>
+telephone +7 705 362 39 27
+<i>discord Dovakin 9496</i>
+
+<h4>About me:</h4>
+<i>I worked for 3 years as a locksmith in different factories, but I have always loved computers and programming. And now I want to become a Software Engineer in Front-end. I really enjoy programming and want to keep growing as a developer.</i>
+
+<h4>Skills:</h4>
+<ul>
+<li>HTML</li>
+<li>Markdown </li>
+<li>Css </li>
+</ul>
+
+<h4>Code example:</h4>
+
   <h2>Создайте своего персонажа</h2>
   <form>
     <label>
@@ -40,14 +52,20 @@ I worked for 3 years as a locksmith in different factories, but I have always lo
       <option>Кинжал</option>
     </select>
   </form>
-  </body>
-  ```
+  
 
-###Work experience. Junior Dev
+<h4>Work experience. Junior Dev: </h4>
 -
 
-###Education
+<h4>Education: </h4>
 Medium-special technician mechanic
 
-###English language
-Basic level
+<h4> English language:</h4>
+<strong>basic level</strong>
+<p>-----------</p>
+<footer><p><a href="https://github.com/Dovakin921"> My github </a></p>
+<p><a href="https://rs.school/js/">https://rs.school/js/ </a></p>
+<p>8 April 2008</p>
+<img src="https://rs.school/images/rs_school_js.svg" width="320" height="240">
+</footer>
+</body>
