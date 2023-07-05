@@ -9,10 +9,10 @@
 <title> Моё CV HTML CSS </title>
 </head>
 <body>
-<h3> My name: </h3>
+<h1> My name: </h1>
 <strong> Nikita Akulich</strong>
 
-<h4>Contacts for communication:</h4>
+<h2>Contacts for communication:</h2>
 telephone +7 705 362 39 27
 <i>discord Dovakin 9496</i>
 
@@ -26,7 +26,7 @@ telephone +7 705 362 39 27
 <li>Css </li>
 </ul>
 
-<h4>Code example:</h4>
+<h3>Code example:</h3>
 
   <h2>Создайте своего персонажа</h2>
   <form>
